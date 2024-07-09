@@ -1,0 +1,63 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --body-body-06-font-family: "Nunito", Helvetica;
+  --body-body-06-font-size: 50px;
+  --body-body-06-font-style: normal;
+  --body-body-06-font-weight: 400;
+  --body-body-06-letter-spacing: 0px;
+  --body-body-06-line-height: normal;
+  --body-body-21-font-family: "Nunito", Helvetica;
+  --body-body-21-font-size: 16px;
+  --body-body-21-font-style: normal;
+  --body-body-21-font-weight: 400;
+  --body-body-21-letter-spacing: 0px;
+  --body-body-21-line-height: normal;
+  --body-body-22-font-family: "Nunito", Helvetica;
+  --body-body-22-font-size: 14px;
+  --body-body-22-font-style: normal;
+  --body-body-22-font-weight: 400;
+  --body-body-22-letter-spacing: 0px;
+  --body-body-22-line-height: normal;
+  --body-body-23-font-family: "Nunito", Helvetica;
+  --body-body-23-font-size: 12px;
+  --body-body-23-font-style: normal;
+  --body-body-23-font-weight: 400;
+  --body-body-23-letter-spacing: 0px;
+  --body-body-23-line-height: normal;
+  --heading-heading-04-font-family: "Nunito", Helvetica;
+  --heading-heading-04-font-size: 16px;
+  --heading-heading-04-font-style: normal;
+  --heading-heading-04-font-weight: 800;
+  --heading-heading-04-letter-spacing: 0px;
+  --heading-heading-04-line-height: normal;
+  --heading-heading-09-font-family: "Nunito", Helvetica;
+  --heading-heading-09-font-size: 26px;
+  --heading-heading-09-font-style: normal;
+  --heading-heading-09-font-weight: 800;
+  --heading-heading-09-letter-spacing: 0px;
+  --heading-heading-09-line-height: normal;
+  --heading-heading-24-font-family: "Nunito", Helvetica;
+  --heading-heading-24-font-size: 70px;
+  --heading-heading-24-font-style: normal;
+  --heading-heading-24-font-weight: 800;
+  --heading-heading-24-letter-spacing: 0px;
+  --heading-heading-24-line-height: normal;
+  --semi-semi-bold-20-font-family: "Nunito", Helvetica;
+  --semi-semi-bold-20-font-size: 18px;
+  --semi-semi-bold-20-font-style: normal;
+  --semi-semi-bold-20-font-weight: 600;
+  --semi-semi-bold-20-letter-spacing: 0px;
+  --semi-semi-bold-20-line-height: normal;
+  --variable-collection-background: rgba(255, 249, 232, 1);
+  --variable-collection-nav-bar: rgba(38, 18, 0, 1);
+  --variable-collection-text: rgba(31, 31, 31, 1);
+  --white: rgba(255, 255, 255, 1);
+}
